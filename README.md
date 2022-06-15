@@ -2,8 +2,8 @@
 Hello There product repo
 
 My name is Claude Edward Baxter.
-I was born September 24, 1985 to Terry Emma Baxter and Claude Ingamore Baxter, in Corpus Christi, TX.
-I grew up in Aransas Pass, TX, graduated highschool in Ingleside, TX, and graduated college from Del Mar College in Corpus Christi, TX
+I was born September 24, 1985 to Terry Emma Baxter and Claude Ingamore Baxter, in Corpus Christi, TX. 
+I grew up in Aransas Pass, TX, graduated highschool in Ingleside, TX, and graduated college from Del Mar College in Corpus Christi, TX. 
 I currently live in Corpus Christi, TX and work in property management for short term rentals and multi-family housing.
 
 I've worked in various jobs throughout my life, bouncing from industry to industry.
